@@ -16,7 +16,7 @@ Power BI project analyzing Sales, Profit, Customer Segments, and Product Perform
 - `project.pbix` — Power BI file (optional)
 
 ## Tools used
-Power BI, Excel, Power Query
+Python, Power BI, Excel, Power Query
 
 ## Skills demonstrated
 Data cleaning, DAX, KPI creation, data modelling, visualization, business insights
